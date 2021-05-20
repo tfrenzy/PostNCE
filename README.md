@@ -1,1 +1,2 @@
 # PostNCE
+This project was done as a demo for the national certificate of information unit of the University of Port Harcourt. It allows students to register, log in and give them the ease of checking their results as well as other tasks without being physically present in the unit to do these tasks. Provision was also made for admin access where the admin staff could upload result sheets in excel format which were uploaded via code to the database. The project was implemented using PHP and mySQL database for the backend.
